@@ -1,0 +1,272 @@
+{
+  "footer": {
+    "legalfooterlinks": [
+      {
+        "href": "http://www.dell.com/learn/us/en/uscorp1/site-terms-of-use-copyright",
+        "metrics": "0",
+        "text": "© ${year} Dell Inc.",
+        "target": "1"
+      },
+      {
+        "href": "https://www.dell.com/learn/us/en/uscorp1/policies-privacy",
+        "metrics": "0",
+        "text": "Privacy",
+        "target": "1"
+      },
+      {
+        "href": "https://www.dell.com/learn/us/en/uscorp1/site-terms-of-use",
+        "metrics": "0",
+        "text": "Terms of Use",
+        "target": "1"
+      },
+      {
+        "href": "/content/emc/en-us/customer-services/product-warranty-and-service-descriptions.htm",
+        "metrics": "0",
+        "text": "Legal",
+        "target": "1"
+      },
+      {
+        "href": "https://i.dell.com/sites/doccontent/corporate/corp-comm/en/Documents/dell-california-trafficking.pdf",
+        "metrics": "0",
+        "text": "Anti-Slavery and Human Trafficking",
+        "target": "1"
+      },
+      {
+        "href": "/content/emc/en-us/utilities/global-site-selector.htm",
+        "metrics": "0",
+        "text": "Please select a different location",
+        "target": "0"
+      }
+    ],
+    "contextualfooterlinks": [
+      {
+        "text": "Our Offerings ",
+        "target": "0",
+        "Children": [
+          {
+            "href": "/content/delltechnologies/en/what-we-do.htm",
+            "metrics": "0",
+            "text": "Digital Future",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/products/index.htm",
+            "metrics": "0",
+            "text": "Products",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/solutions/index.htm",
+            "metrics": "0",
+            "text": "Solutions",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/services/index.htm",
+            "metrics": "0",
+            "text": "Services",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/solutions/dell-technologies-on-demand.htm",
+            "metrics": "0",
+            "text": "Dell Technologies on Demand",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/payment-solutions/flexible-consumption/index.htm",
+            "metrics": "0",
+            "text": "Flexible Consumption Models",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/remote-work/index.htm",
+            "metrics": "0",
+            "text": "Implementing Remote Workforce",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/premier-solutions/index.htm",
+            "metrics": "0",
+            "text": "Dell Premier Solutions",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/what-we-do/customer-engagement-programs.htm",
+            "metrics": "0",
+            "text": "Customer Engagement",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/software-downloads/index.htm",
+            "metrics": "0",
+            "text": "Software Downloads",
+            "target": "0"
+          },
+          {
+            "href": "/content/emc/en/learn/index.htm",
+            "metrics": "0",
+            "text": "Glossary",
+            "target": "0"
+          }
+        ]
+      },
+      {
+        "text": "Support",
+        "target": "0",
+        "Children": [
+          {
+            "href": "https://www.dell.com/support/myservice360",
+            "metrics": "0",
+            "text": "MyService360",
+            "target": "1"
+          },
+          {
+            "href": "https://www.dell.com/support/home/us/en/04?app=products",
+            "metrics": "0",
+            "text": "Product Support",
+            "target": "1"
+          },
+          {
+            "href": "https://www.dell.com/support/home/us/en/04?app=drivers",
+            "metrics": "0",
+            "text": "Drivers & Downloads",
+            "target": "1"
+          },
+          {
+            "href": "https://www.dell.com/support/home/us/en/04?app=community",
+            "metrics": "0",
+            "text": "Community",
+            "target": "1"
+          },
+          {
+            "href": "https://www.dell.com/support/incidents-online/us/en/04/contactus/Dynamic",
+            "metrics": "0",
+            "text": "Contact Technical Support",
+            "target": "1"
+          }
+        ]
+      },
+      {
+        "text": "About Dell Technologies",
+        "target": "0",
+        "Children": [
+          {
+            "href": "/content/delltechnologies/en/what-we-do.htm",
+            "metrics": "0",
+            "text": "What We Do",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/about-us/who-we-are.htm",
+            "metrics": "0",
+            "text": "Who We Are",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/about-us/leadership.htm",
+            "metrics": "0",
+            "text": "Our Leadership",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/social-impact.htm",
+            "metrics": "0",
+            "text": "Social Impact",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/social-impact/advancing-sustainability/how-to-recycle.htm",
+            "metrics": "0",
+            "text": "Product Recycling",
+            "target": "0"
+          },
+          {
+            "href": "https://jobs.delltechnologies.com/",
+            "metrics": "0",
+            "text": "Careers",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/newsroom.htm",
+            "metrics": "0",
+            "text": "Newsroom",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/corporate/newsroom/blogs.htm",
+            "metrics": "0",
+            "text": "Blogs",
+            "target": "0"
+          },
+          {
+            "href": "https://investors.delltechnologies.com/",
+            "metrics": "0",
+            "text": "Investor Relations",
+            "target": "0"
+          },
+          {
+            "href": "https://www.delltechnologiescapital.com/",
+            "metrics": "0",
+            "text": "Dell Technologies Capital",
+            "target": "1"
+          },
+          {
+            "href": "/content/delltechnologies/en/customer-stories.htm",
+            "metrics": "0",
+            "text": "Customer Stories",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/perspectives",
+            "metrics": "0",
+            "text": "Perspectives",
+            "target": "0"
+          }
+        ]
+      },
+      {
+        "text": "Partners",
+        "target": "0",
+        "Children": [
+          {
+            "href": "/content/partner/en/partner/find-a-partner.htm",
+            "metrics": "0",
+            "text": "Find a Partner",
+            "target": "1"
+          },
+          {
+            "href": "/content/partner/en/partner/partner.htm",
+            "metrics": "0",
+            "text": "Partner Program",
+            "target": "1"
+          },
+          {
+            "href": "/content/emc/en/oem/index2.htm",
+            "metrics": "0",
+            "text": "OEM",
+            "target": "0"
+          }
+        ]
+      },
+      {
+        "text": "Contact Us",
+        "target": "0",
+        "Children": [
+          {
+            "href": "/content/emc/en/contactus.htm",
+            "metrics": "0",
+            "text": "Contact Us",
+            "target": "0"
+          },
+          {
+            "href": "/content/delltechnologies/en/events/calendar.htm",
+            "metrics": "0",
+            "text": "Events",
+            "target": "0"
+          }
+        ]
+      }
+    ]
+  }
+}
