@@ -1,10 +1,6 @@
 {
-    "timeTaken": 113,
-    "totalCount": 1,
-    "success": true,
-    "errorMessage": null,
-    "items": [
-        {
+  "items":[
+     {
             "isoCountryCode": "us",
             "CountryName": "UnitedStates",
             "localizedCountryName": "UnitedStates",
@@ -16,5 +12,5 @@
             "redirectUrl": "",
             "referencedProfile": "us_en_19"
         }
-    ]
+  ]
 }
